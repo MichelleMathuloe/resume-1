@@ -1,0 +1,45 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="test.css">
+    <title>My Resume</title>
+ </head>
+ <body>
+
+    <header>
+        <h1>This is my resume</h1>>
+         <p>Below I will show you my qualifications and skills</p>
+    </header>
+
+    <main>
+       <h2>skills</h2>
+        <p>
+            Lorem ipsum dolor sit, amet consectetur adipiscing elit.
+         eum qui praesentium animi quo expedita voluptatum non porro nihil atque eaque eius!
+        </p>
+
+         <h2>Qualifications</h2>
+        <p>
+        Lorem ipsum dolor sit, amet consectetur adipiscing elit.
+        Reprehenderit repudiandae quas odit eos corporis placeat ducimus reiciendis quod,
+        tenetur beatae doloremque fugit dolorum autem cupidatate suscipit amet pariatur cum doloribus!
+        </p>
+        <p> I studied Web Development at <a href="https://www.codespace.co.za/">Codespace</a>.">
+        </p>
+         <img src="images/myPp.jpeg" alt="This is my profile photo">
+ </main>
+
+ </footer>
+     <p>
+         Lorem ipsum, dolor sit amet consectetur adipiscing elit. Quidem adipisci, praesentium dolor enim placeat perferedis cumque mod
+     </p>
+
+     <img src="images/linkedInlogo.jpg" alt="linkedIn Logo">
+</footer>
+
+ </body>
+ </html>
+
